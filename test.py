@@ -50,4 +50,3 @@
 a = list('ABCDEF')
 
 
-b = a
