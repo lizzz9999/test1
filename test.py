@@ -48,3 +48,6 @@
 # print(a)
 
 a = list('ABCDEF')
+
+
+b = a
